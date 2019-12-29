@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+* {
+    font-family: "SFProText-Regular";
+
+}
+header{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+.container2{
+    position: sticky;
+    top: 0;
+}
+#header {
+    border-bottom: 1px solid #e6ebed;
+ 
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+}
+
+#header .container {
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+
+}
+
+.logotext {
+    margin-left: 25px;
+}
+
+.logotext #Text-a {
+    font-size: 18px;
+
+
+    color: #2e384d;
+}
+
+.logotext #Text-2 {
+
+    font-size: 18px;
+
+
+    color: #adb6bf;
+}
+
+.infoicon a {
+    font-size: 16px;
+    color: #15334a;
+    margin-left: 15px;
+}
+
+.serchbox {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.call img {
+    width: 51px;
+    height: 24px;
+    margin-left: 15px;
+    position: relative;
+    top: 4px;
+}
+
+.menu {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.topmenu {
+    display: flex;
+    list-style-type: none;
+    padding: 15px;
+
+}
+
+.topmenu li {
+    margin-top: 25px;
+    margin-right: 35px;
+
+}
+
+.topmenu li a {
+    color: black;
+}
+
+.topmenu li a:hover {
+    color: #90b561;
+}
+.banner{
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(275deg, #6ebb20, #129450);
+}
+.banner-text h1{
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    color: white;
+}
