@@ -10,6 +10,40 @@
     font-family: "SFProText-Regular";
 
 }
+
+/*Message*/
+button{
+    background-color: transparent;
+    cursor: pointer;
+}
+.btn-message{
+position: fixed;
+right: 45px;
+bottom: 45px;
+width: 60px;
+height: 60px;
+background-color: #6ebb20;
+z-index: 100;
+border-radius: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+transition: background-color 0.5s;
+border-color: transparent;
+
+}
+
+.btn-message:hover,
+.btn-message.active{
+background-color: #15334a;
+cursor: pointer;
+}
+
+/**/
+
+
+
+
 header{
     position: sticky;
     top: 0;

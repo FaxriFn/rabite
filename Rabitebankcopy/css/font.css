@@ -36,12 +36,12 @@
 
 @font-face {
     font-family: 'SFProText-HeavyItalic';
-    src: url('fonts/SFProText-HeavyItalic.eot');
-    src: url('fonts/SFProText-HeavyItalic.eot?#iefix') format('embedded-opentype'),
-    url('fonts/SFProText-HeavyItalic.woff2') format('woff2'),
-    url('fonts/SFProText-HeavyItalic.woff') format('woff'),
-    url('fonts/SFProText-HeavyItalic.ttf') format('truetype'),
-    url('fonts/SFProText-HeavyItalic.svg#fonts/SFProText-HeavyItalic') format('svg');
+    src: url('../fonts/SFProText-HeavyItalic.eot');
+    src: url('../fonts/SFProText-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFProText-HeavyItalic.woff2') format('woff2'),
+    url('../fonts/SFProText-HeavyItalic.woff') format('woff'),
+    url('../fonts/SFProText-HeavyItalic.ttf') format('truetype'),
+    url('../fonts/SFProText-HeavyItalic.svg#fonts/SFProText-HeavyItalic') format('svg');
     font-weight: 900;
     font-style: italic;
 }
@@ -60,12 +60,12 @@
 
 @font-face {
     font-family: 'SFProText-RegularItalic';
-    src: url('fonts/SFProText-RegularItalic.eot');
-    src: url('fonts/SFProText-RegularItalic.eot?#iefix') format('embedded-opentype'),
-    url('fonts/SFProText-RegularItalic.woff2') format('woff2'),
-    url('fonts/SFProText-RegularItalic.woff') format('woff'),
-    url('fonts/SFProText-RegularItalic.ttf') format('truetype'),
-    url('fonts/SFProText-RegularItalic.svg#fonts/SFProText-RegularItalic') format('svg');
+    src: url('../fonts/SFProText-RegularItalic.eot');
+    src: url('../fonts/SFProText-RegularItalic.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFProText-RegularItalic.woff2') format('woff2'),
+    url('../fonts/SFProText-RegularItalic.woff') format('woff'),
+    url('../fonts/SFProText-RegularItalic.ttf') format('truetype'),
+    url('../fonts/SFProText-RegularItalic.svg#fonts/SFProText-RegularItalic') format('svg');
     font-weight: normal;
     font-style: italic;
 }
